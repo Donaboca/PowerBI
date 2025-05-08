@@ -19,6 +19,10 @@ Miksi kuvakaappaukset? Kyseessä mixed mode ja mallinnus tehty Fabricissa ja lis
 ### Aleksanterinkadun data
 ![image](https://github.com/user-attachments/assets/e0dff63f-ed34-4267-b572-24502cb40e49)
 
+### Viime viikon kulkijat
+![image](https://github.com/user-attachments/assets/d69769d5-b7b6-4b44-9848-c813c80567ba)
+
+
 
 
 
